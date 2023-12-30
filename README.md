@@ -34,4 +34,9 @@ I'm a 2nd year student at Seneca, passionate about Programming and Tech. Welcome
 
 ## 🌐 Connect with Me
 
-Let's connect and explore exciting opportunities together! 😊
+<p>
+<a href="https://www.linkedin.com/in/shrey-bhatt-406100282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaovitortc" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shr.e_y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jv_cunha1" height="30" width="40" /></a>
+</p>
+
+**Let's connect and explore exciting opportunities together! 😊**
