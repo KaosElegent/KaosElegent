@@ -10,11 +10,6 @@ I'm a 2nd year student at Seneca, passionate about Programming and Tech. Welcome
 ## 🔧 Technologies & Tools
 
 
-
-## 🏆 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaosElegent&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 
 
