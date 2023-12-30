@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Shrey!
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 I'm a 2nd year student at Seneca, passionate about Programming and Tech. Welcome to my GitHub profile!
 
 - 🌱 I’m currently learning COBOL, JS & C++.
@@ -7,9 +9,11 @@ I'm a 2nd year student at Seneca, passionate about Programming and Tech. Welcome
 - 📫 How to reach me: shreybhatt13@gmail.com / sabhatt2@myseneca.ca
 - 😄 Pronouns: He/Him.
 
+
+
 ## 🔧 Technologies & Tools
 
-<p>
+<p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -34,7 +38,7 @@ I'm a 2nd year student at Seneca, passionate about Programming and Tech. Welcome
 
 ## 🌐 Connect with Me
 
-<p>
+<p align="left">
 <a href="https://www.linkedin.com/in/shrey-bhatt-406100282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaovitortc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shr.e_y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jv_cunha1" height="30" width="40" /></a>
 </p>
