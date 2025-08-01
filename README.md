@@ -16,4 +16,4 @@ I'm a 3rd year student at Seneca, passionate about Programming and Tech. Welcome
 <a href="https://www.instagram.com/shr.e_y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shr.e_y" height="30" width="40" /></a>
 </p>
 
-**Let's connect and explore exciting opportunities together! 😊**
+**Let's connect and potentially build some cool stuff!**
