@@ -8,7 +8,9 @@ I'm a 3rd year student at Seneca, passionate about Programming and Tech. Welcome
 - 💼 Working on CUSEC 2026 website as the Director of Technology for the Conference.
 - 📫 How to reach me: shreybhatt13@gmail.com
 - 😄 Pronouns: He/Him.
+ 
+**Let's connect and potentially build some cool stuff!**
 
-<a href="https://www.linkedin.com/in/shreybhatt13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreybhatt13" height="30" width="40" />**Let's connect and potentially build some cool stuff!**</a>
+<a href="https://www.linkedin.com/in/shreybhatt13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreybhatt13" height="30" width="40" /></a>
 
 
