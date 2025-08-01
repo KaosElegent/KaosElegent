@@ -9,11 +9,6 @@ I'm a 3rd year student at Seneca, passionate about Programming and Tech. Welcome
 - 📫 How to reach me: shreybhatt13@gmail.com
 - 😄 Pronouns: He/Him.
 
-<h2>🌐 Connect with Me</h2>
-
-<p align="left">
 <a href="https://www.linkedin.com/in/shreybhatt13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreybhatt13" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shr.e_y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shr.e_y" height="30" width="40" /></a>
-</p>
 
 **Let's connect and potentially build some cool stuff!**
