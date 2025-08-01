@@ -2,10 +2,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07222756-2fef-4823-aece-10a685f3d77c/dasv7g5-3a7c0998-a1ff-4c6d-99f3-2fc8b834f45c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3MjIyNzU2LTJmZWYtNDgyMy1hZWNlLTEwYTY4NWYzZDc3Y1wvZGFzdjdnNS0zYTdjMDk5OC1hMWZmLTRjNmQtOTlmMy0yZmM4YjgzNGY0NWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e8XQ_8qvYGlIyIWdlGWkozxfM4Z_HzEwPNpyaF850wQ">
 
-I'm a 2nd year student at Seneca, passionate about Programming and Tech. Welcome to my GitHub profile!
+I'm a 3rd year student at Seneca, passionate about Programming and Tech. Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning Ruby & Ruby on Rails.
-- 💼 Working on a passion project called 'AIHub' for Seneca Software Developer's club & revamping my website.
+- 🌱 I’m currently working as a Software Developer at Info-Tech Research Group alongside school.
+- 💼 Working on CUSEC 2026 website as the Director of Technology for the Conference.
 - 📫 How to reach me: shreybhatt13@gmail.com
 - 😄 Pronouns: He/Him.
 
