@@ -11,5 +11,5 @@ I'm a 3rd year student at Seneca, passionate about Programming and Tech. Welcome
  
 **Let's connect and potentially build some cool stuff!**
 
-<a href="https://www.linkedin.com/in/shreybhatt13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreybhatt13" height="30" width="40" /></a>
-<a href="https://devpost.com/KaosElegent" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/devpost-icon.png" alt="shreybhatt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreybhatt13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreybhatt13" height="40" width="40" /></a>
+<a href="https://devpost.com/KaosElegent" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/devpost-icon.png" alt="shreybhatt" height="40" width="40" /></a>
